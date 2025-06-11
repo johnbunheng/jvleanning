@@ -90,7 +90,7 @@ const Navbar = () => {
                        {
                         menu.map((item)=>{
                             return(
-                                <li className=' hover:scale-110 duration-200'>
+                                <li key={item.id} className=' hover:scale-110 duration-200'>
                                     <a href={item.link}
                                         className=' hover:text-yellow-500 hover:underline'
                                     >
