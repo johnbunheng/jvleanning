@@ -31,6 +31,18 @@ const Home = () => {
             image:Img4,
             name:"C++",
             title:"C++ Programming language"
+        },
+        {
+            id:4,
+            image:Img4,
+            name:"C#",
+            title:"C++ Programming language"
+        },
+        {
+            id:4,
+            image:Img4,
+            name:"PHP",
+            title:"C++ Programming language"
         }
     ]);
     return ( 
