@@ -33,13 +33,13 @@ const Home = () => {
             title:"C++ Programming language"
         },
         {
-            id:4,
+            id:5,
             image:Img4,
             name:"C#",
             title:"C++ Programming language"
         },
         {
-            id:4,
+            id:6,
             image:Img4,
             name:"PHP",
             title:"C++ Programming language"
