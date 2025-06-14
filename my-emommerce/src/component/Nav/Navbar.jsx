@@ -1,14 +1,11 @@
 import { useEffect, useState } from 'react';
-
 import { FaSearch } from "react-icons/fa";
-import { FaCartShopping } from "react-icons/fa6";
 import { MdDarkMode } from "react-icons/md";
 import { IoMdArrowDropdown } from "react-icons/io";
 import { FaHtml5 } from "react-icons/fa";
 import { FaCss3 } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io5";
 import { HiCode } from "react-icons/hi";
-import { Link } from 'react-router-dom'
 
 const Navbar = () => {
   

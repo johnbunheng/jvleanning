@@ -1,5 +1,5 @@
-import Img1 from '../../img/html-structure.png'
-import Img2 from '../../img/a-1664528015671-2x.jpg'
+import Img1 from '../img/html-structure.png'
+import Img2 from '../img/a-1664528015671-2x.jpg'
 const HTML = () => {
    
     return ( 

@@ -1,7 +1,7 @@
-import Img1 from '../../img/html.png'
-import Img2 from '../../img/css.webp'
-import Img3 from '../../img/js.png'
-import Img4 from '../../img/c++.png'
+import Img1 from '../img/html.png'
+import Img2 from '../img/css.webp'
+import Img3 from '../img/js.png'
+import Img4 from '../img/c++.png'
 import { Link } from 'react-router-dom'
 import { useState } from 'react';
 const Home = () => {
